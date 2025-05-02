@@ -15,20 +15,6 @@ The goal of this project is to build an AI-powered system that can:
 
 ---
 
-## 🗂️ Project Structure
-RecipeRecommender_AI-main/
-├── dataset/
-│   └── recipes.csv                # Recipe data including ingredients, titles, and instructions
-├── static/
-│   └── styles.css                 # CSS styling for the web UI
-├── templates/
-│   └── index.html                 # HTML template for user interface
-├── app.py                         # Flask web app
-├── recommender.py                 # Core recommendation logic
-├── preprocess.py                  # Text cleaning and feature extraction
-├── requirements.txt               # Dependencies
-└── README.md                      # Project overview
----
 
 ## 📊 Dataset
 
